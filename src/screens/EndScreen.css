@@ -1,0 +1,32 @@
+.end-screen {
+  min-height: 100vh;
+  background: #f7f9ff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.end-screen h1 {
+  margin-bottom: 16px;
+}
+
+.end-screen p {
+  margin-bottom: 24px;
+  font-size: 1.1rem;
+}
+
+.restart-btn {
+  padding: 12px 24px;
+  font-size: 1.1rem;
+  background: #4a6cf7;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.restart-btn:hover {
+  transform: scale(1.05);
+}

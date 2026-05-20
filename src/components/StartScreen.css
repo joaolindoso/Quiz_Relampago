@@ -1,0 +1,39 @@
+.start-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #f7f9ff;
+  transition: opacity 0.5s ease;
+}
+
+.fade-out {
+  opacity: 0;
+}
+
+.game-title {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.start-btn {
+  padding: 12px 24px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border: none;
+  background: #4a6cf7;
+  color: white;
+  border-radius: 8px;
+  transition: transform 0.2s;
+}
+
+.start-btn:hover {
+  transform: scale(1.05);
+}
+
+.studio {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
