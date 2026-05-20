@@ -1,7 +1,7 @@
 # ⚡ Quiz Relâmpago
 
 Um mini‑jogo educativo em React onde o jogador responde perguntas rápidas sobre curiosidades do Brasil.  
-Parte da coleção _Educational Games_ criada pela **TodayHost Studios**.
+Parte da coleção _Educational Games_ criada por **João Lindoso**.
 
 ---
 
